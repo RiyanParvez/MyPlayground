@@ -1,0 +1,14 @@
+revChatGPT
+GoogleBard
+llama_cpp_python
+googlesearch-python
+chromadb
+pygame
+faster_whisper
+edge_tts
+poe-api
+openai
+sounddevice
+soundfile
+elevenlabs
+wave
